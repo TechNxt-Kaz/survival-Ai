@@ -1,4 +1,10 @@
-# Survival LLM
+
+#Survival AI
+
+
+An Offline AI Assistant & Emergency Reference Library for Your Computer
+
+Survival AI is a localized AI assistant and comprehensive emergency knowledge library that runs entirely on your own computer. Ask it how to keep food safe in a blackout, treat a sudden burn, or purify water, and it will answer instantly using trusted local documents—completely offline with zero internet required.
 
 A free AI assistant and survival library that runs entirely on your own computer and works with no
 internet. Ask it how to keep food safe in a blackout, treat a burn or purify water: it searches an
